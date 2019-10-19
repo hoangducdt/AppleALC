@@ -9193,6 +9193,35 @@
 					<key>LayoutID</key>
 					<integer>28</integer>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>CodecID</key>
+					<integer>283904256</integer>
+					<key>Comment</key>
+					<string>MSI Z97 Gaming 7</string>
+					<key>ConfigData</key>
+					<data>
+					AYccEAGHHREBhx6gAYcfkQGnHCABpx0QAace
+					gQGnHwEBdxwwAXcdEQF3HhABdx+RAUccQAFH
+					HVEBRx4QAUcfkQFnHEEBZx0RAWceEAFnH5EB
+					VxxCAVcdEQFXHgABVx+RAbccUAG3HUABtx4h
+					AbcfAgHnHGAB5x0QAeceRQHnHwEBlxxwAZcd
+					kAGXHoEBlx8C
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>69</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AUcMAg==
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleHDAHardwareConfigDriver</string>
